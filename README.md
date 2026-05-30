@@ -1,6 +1,7 @@
 # Stock+ Gestão de Patrimônio
 
-Projeto acadêmico desenvolvido para a disciplina de Programação Web II no curso de Análise e Desenvolvimento de Sistemas (5º Semestre) — IFSul Campus Venâncio Aires/RS.
+> **Projeto Prático: Desenvolvimento para a Disciplina de Linguagem de Programação II (LP2)** 
+> **Curso: Análise e Desenvolvimento de Sistemas (ADS) — IFSul Campus Venâncio Aires**
 
 ---
 
@@ -47,9 +48,8 @@ A arquitetura do sistema foi projetada para suportar um relacionamento de um par
 
 ---
 
-## Como Executar o Projeto
+## Como Executar o Projeto Localmente - Pré-requisitos
 
-### Pré-requisitos
 Para rodar este projeto em sua máquina local, você precisará ter instalado:
 - Java Development Kit (JDK) compatível com a versão do projeto
 - JavaFX SDK configurado na sua IDE ou ambiente de execução
@@ -57,6 +57,4 @@ Para rodar este projeto em sua máquina local, você precisará ter instalado:
 
 ### Passo a Passo
 
-1. Clonar o repositório:
-```bash
-   git clone [https://github.com/Alysson-afb/nome-do-repositorio.git](https://github.com/Alysson-afb/nome-do-repositorio.git)
+git clone https://github.com/Alysson-afb/nome-do-repositorio.git
