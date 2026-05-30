@@ -53,6 +53,8 @@ A arquitetura do sistema foi projetada para suportar um relacionamento de um par
 - JavaFX SDK configurado na sua IDE ou ambiente de execução
 - Servidor MySQL ativo
 
+  ---
+
 ### Clonar o Repositório:
 
 git clone https://github.com/Alysson-afb/nome-do-repositorio.git
