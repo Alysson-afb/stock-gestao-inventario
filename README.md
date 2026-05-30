@@ -1,6 +1,7 @@
 # Stock+ Gestão de Patrimônio
 
-> **Projeto Prático: Desenvolvimento para a Disciplina de Linguagem de Programação II (LP2)** 
+> **Projeto Prático: Desenvolvimento para a Disciplina de Linguagem de Programação II (LP2)**
+
 > **Curso: Análise e Desenvolvimento de Sistemas (ADS) — IFSul Campus Venâncio Aires**
 
 ---
@@ -11,9 +12,7 @@ O Stock+ é um sistema de gestão de patrimônio projetado para controlar e orga
 
 ---
 
-## Tecnologias e Recursos Utilizados
-
-O desenvolvimento do sistema foi estruturado seguindo as boas práticas da engenharia de software, com foco na modularização e na persistência robusta dos dados.
+## Tecnologias Utilizados
 
 - Linguagem: Java
 - Paradigma: Orientação a Objetos (POO)
@@ -48,13 +47,12 @@ A arquitetura do sistema foi projetada para suportar um relacionamento de um par
 
 ---
 
-## Como Executar o Projeto Localmente - Pré-requisitos
+## Pré-Requisitos para Execução do Projeto: 
 
-Para rodar este projeto em sua máquina local, você precisará ter instalado:
 - Java Development Kit (JDK) compatível com a versão do projeto
 - JavaFX SDK configurado na sua IDE ou ambiente de execução
 - Servidor MySQL ativo
 
-### Passo a Passo
+### Clonar o Repositório:
 
 git clone https://github.com/Alysson-afb/nome-do-repositorio.git
