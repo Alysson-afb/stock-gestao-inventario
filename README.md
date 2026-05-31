@@ -52,6 +52,8 @@ A arquitetura do sistema foi projetada para suportar um relacionamento de um par
 - Java Development Kit (JDK) compatível com a versão do projeto
 - JavaFX SDK configurado na sua IDE ou ambiente de execução
 - Servidor MySQL ativo
+- (Desenvolvimento e testes realizados em plataforma Mac Silicon)
+Colocar Banco src/database
 
   ---
 
